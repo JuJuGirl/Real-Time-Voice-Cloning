@@ -4,7 +4,7 @@ from utils.argutils import print_args
 from synthesizer import infolog
 import argparse
 import os
-
+# test
 
 def prepare_run(args):
     modified_hp = hparams.parse(args.hparams)
